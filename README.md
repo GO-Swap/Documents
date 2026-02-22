@@ -1,4 +1,3 @@
-Here is a professional README in English based on your system design 
 # Go Swap (DEX) – System Design
 
 ## Overview
