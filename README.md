@@ -10,7 +10,7 @@ It exposes APIs for trading operations, market data, liquidity positions, and an
 
 ## LINK
 
-httpsexcalidraw.com#json=RKbASAiaqzV4hxTXMzkwg,2EL37CYOMIIJvcc-Xkg8uw
+https://excalidraw.com/#json=9vymssPUedwQkDv1-p8CR,IkGel2qizJwIF0-_5e31Jw
 
 ---
 
